@@ -4,7 +4,7 @@
 
 Building **backend** systems and exploring **high-load** **architecture**
 
-🎓 Software Engineering student at **ITMO University**
+🎓 [Software Engineer '28 @ ITMO University](https://abit.itmo.ru/program/bachelor/system_software)
 
 
 ---
@@ -39,22 +39,14 @@ Building **backend** systems and exploring **high-load** **architecture**
 
 <div>
   <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,git,github,grafana" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ### Testing
 
 <div>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-  <br/>
-
   <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
 ### Frontend & Desktop
@@ -74,19 +66,16 @@ Building **backend** systems and exploring **high-load** **architecture**
 
 ## Featured Project
 
-### 🏋️ Fitness Tracker
+### 🏋️ [Fitness Tracker](https://github.com/murphyqwek/Fitness-Tracker)
 
-Full-stack application for **tracking, managing and analyzing workouts**.
+Full-stack application for **tracking, managing and analyzing workouts** - [🌐 web](fitracker.online)
 
 ## 📈 GitHub Stats
-
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murphyqwek&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murphyqwek&theme=github_dark" />
 </div>
-
-
 
 ---
 
