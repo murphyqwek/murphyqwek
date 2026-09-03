@@ -76,7 +76,7 @@ Building **backend** systems and exploring **high-load architecture**
 
 ### 🏋️ [Fitness Tracker](https://github.com/murphyqwek/Fitness-Tracker)
 
-Full-stack application for **tracking, managing and analyzing workouts** - [🌐 web](https://fitracker.online)
+Full-stack application for **tracking, managing and analyzing workouts** - [🌐web](https://fitracker.online)
 
 # 📈 GitHub Stats
 
@@ -89,6 +89,6 @@ Full-stack application for **tracking, managing and analyzing workouts** - [🌐
 
 <p align="center">
   <a href="https://t.me/sv_v_nr">
-    <img src="https://img.shields.io/badge/Telegram-@myusername-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-@sv_v_nr-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
