@@ -19,9 +19,11 @@ Building **backend** systems and exploring **high-load** **architecture**
 
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </br>
   <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FluentValidation-512BD4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AutoMapper-BE2026?style=for-the-badge" />
+  </br>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </div>
