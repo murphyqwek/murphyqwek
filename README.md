@@ -72,20 +72,20 @@ Building **backend** systems and exploring **high-load architecture**
   <img src="https://skillicons.dev/icons?i=python,java" />
 </div>
 
-## Featured Project
+# Featured Project
 
 ### 🏋️ [Fitness Tracker](https://github.com/murphyqwek/Fitness-Tracker)
 
 Full-stack application for **tracking, managing and analyzing workouts** - [🌐 web](fitracker.online)
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murphyqwek&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murphyqwek&theme=github_dark" />
 </div>
 
-## 📫 Contacts
+# 📫 Contacts
 
 <p align="center">
   <a href="https://t.me/sv_v_nr">
