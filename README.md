@@ -6,9 +6,6 @@ Building **backend** systems and exploring **high-load** **architecture**
 
 🎓 [Software Engineer '28 @ ITMO University](https://abit.itmo.ru/program/bachelor/system_software)
 
-
----
-
 ## 🛠 Tech Stack
 
 ### Backend
@@ -78,8 +75,6 @@ Full-stack application for **tracking, managing and analyzing workouts** - [🌐
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=murphyqwek&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murphyqwek&theme=github_dark" />
 </div>
-
----
 
 ## 📫 Contacts
 
