@@ -1,8 +1,17 @@
-# Arseniy Starikov
+<h1>
+Hi, I'm Arseniy
+<img
+  src="https://media.giphy.com/media/y4nk5bgwpWL6T5Ax9y/giphy.gif"
+  width="50"
+  style="vertical-align: -20px;"
+/>
+</h1>
+
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" hspace="20">
 
 ### C# / .NET Backend Developer
 
-Building **backend** systems and exploring **high-load** **architecture**
+Building **backend** systems and exploring **high-load architecture**
 
 🎓 [Software Engineer '28 @ ITMO University](https://abit.itmo.ru/program/bachelor/system_software)
 
