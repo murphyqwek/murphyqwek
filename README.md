@@ -1,5 +1,5 @@
 <h1>
-Hi, I'm Arseniy
+Hi, I'm Arseny
 <img
   src="https://media.giphy.com/media/y4nk5bgwpWL6T5Ax9y/giphy.gif"
   width="50"
