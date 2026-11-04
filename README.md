@@ -46,7 +46,9 @@ Building **backend** systems and exploring **high-load architecture**
 ### Infrastructure & DevOps
 
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,git,github,grafana" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,git,github,grafana,prometheus" />
+  <img src="https://grafana.com/static/img/logos/logo-loki.svg" height="48" alt="Grafana Loki" title="Grafana Loki" />
+  <img src="https://raw.githubusercontent.com/grafana/alloy/main/docs/sources/assets/logo_alloy_dark.svg" height="48" alt="Grafana Alloy" title="Grafana Alloy" />
 </div>
 
 ### Testing
